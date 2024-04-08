@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imp\\source\\repos\\SwiftParser\\MessagingStandards\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{423F2354-3003-4481-B0BF-88DD2975A03A}|Tests\\Tests.csproj|c:\\users\\imp\\source\\repos\\swiftparser\\messagingstandards\\tests\\checktags2series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F2354-3003-4481-B0BF-88DD2975A03A}|Tests\\Tests.csproj|solutionrelative:tests\\checktags2series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F2354-3003-4481-B0BF-88DD2975A03A}|Tests\\Tests.csproj|c:\\users\\imp\\source\\repos\\swiftparser\\messagingstandards\\tests\\checktags1series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F2354-3003-4481-B0BF-88DD2975A03A}|Tests\\Tests.csproj|solutionrelative:tests\\checktags1series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F2354-3003-4481-B0BF-88DD2975A03A}|Tests\\Tests.csproj|c:\\users\\imp\\source\\repos\\swiftparser\\messagingstandards\\tests\\checktags5series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F2354-3003-4481-B0BF-88DD2975A03A}|Tests\\Tests.csproj|solutionrelative:tests\\checktags5series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F2354-3003-4481-B0BF-88DD2975A03A}|Tests\\Tests.csproj|c:\\users\\imp\\source\\repos\\swiftparser\\messagingstandards\\tests\\swiftparsingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F2354-3003-4481-B0BF-88DD2975A03A}|Tests\\Tests.csproj|solutionrelative:tests\\swiftparsingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423F2354-3003-4481-B0BF-88DD2975A03A}|Tests\\Tests.csproj|c:\\users\\imp\\source\\repos\\swiftparser\\messagingstandards\\tests\\unknowmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423F2354-3003-4481-B0BF-88DD2975A03A}|Tests\\Tests.csproj|solutionrelative:tests\\unknowmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckTags2Series.cs",
+              "DocumentMoniker": "C:\\Users\\imp\\source\\repos\\SwiftParser\\MessagingStandards\\Tests\\CheckTags2Series.cs",
+              "RelativeDocumentMoniker": "Tests\\CheckTags2Series.cs",
+              "ToolTip": "C:\\Users\\imp\\source\\repos\\SwiftParser\\MessagingStandards\\Tests\\CheckTags2Series.cs",
+              "RelativeToolTip": "Tests\\CheckTags2Series.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:24:11.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckTags1Series.cs",
+              "DocumentMoniker": "C:\\Users\\imp\\source\\repos\\SwiftParser\\MessagingStandards\\Tests\\CheckTags1Series.cs",
+              "RelativeDocumentMoniker": "Tests\\CheckTags1Series.cs",
+              "ToolTip": "C:\\Users\\imp\\source\\repos\\SwiftParser\\MessagingStandards\\Tests\\CheckTags1Series.cs",
+              "RelativeToolTip": "Tests\\CheckTags1Series.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:24:01.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckTags5Series.cs",
+              "DocumentMoniker": "C:\\Users\\imp\\source\\repos\\SwiftParser\\MessagingStandards\\Tests\\CheckTags5Series.cs",
+              "RelativeDocumentMoniker": "Tests\\CheckTags5Series.cs",
+              "ToolTip": "C:\\Users\\imp\\source\\repos\\SwiftParser\\MessagingStandards\\Tests\\CheckTags5Series.cs",
+              "RelativeToolTip": "Tests\\CheckTags5Series.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:22:47.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SWIFTParsingTests.cs",
+              "DocumentMoniker": "C:\\Users\\imp\\source\\repos\\SwiftParser\\MessagingStandards\\Tests\\SWIFTParsingTests.cs",
+              "RelativeDocumentMoniker": "Tests\\SWIFTParsingTests.cs",
+              "ToolTip": "C:\\Users\\imp\\source\\repos\\SwiftParser\\MessagingStandards\\Tests\\SWIFTParsingTests.cs",
+              "RelativeToolTip": "Tests\\SWIFTParsingTests.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAADwv7cAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:21:41.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnknowMessages.cs",
+              "DocumentMoniker": "C:\\Users\\imp\\source\\repos\\SwiftParser\\MessagingStandards\\Tests\\UnknowMessages.cs",
+              "RelativeDocumentMoniker": "Tests\\UnknowMessages.cs",
+              "ToolTip": "C:\\Users\\imp\\source\\repos\\SwiftParser\\MessagingStandards\\Tests\\UnknowMessages.cs",
+              "RelativeToolTip": "Tests\\UnknowMessages.cs",
+              "ViewState": "AQIAABEAAABAyMzMzEwnwCUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:20:25.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
